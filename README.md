@@ -5,7 +5,7 @@ I'm a Computer Science Student
 ------------------------------
 
 * 🌍  I'm based in Malaysia
-* ✉️  You can contact me at [sitifarihin10@gmail.com](mailto:sitinurfarihin@graduate.utm.my)
+* ✉️  You can contact me at [sitinurfarihin@graduate.utm.my](mailto:sitinurfarihin@graduate.utm.my)
 * 🧠  I'm learning Bachelor of Computer Science (Graphics and Multimedia Software)
 
 ### Skills
